@@ -1,5 +1,7 @@
 # Entrega1BrrasCruz
 
+Esta es la primera entrega del proyecto final curso Python - Coderhouse
+
 Instalación
 Para poder visualizarlo debemos contar con
 
